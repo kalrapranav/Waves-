@@ -1,5 +1,5 @@
 # Waves
-Waves is an interactive user game created entierlu using Java and can be played on PC.   
+Waves is an interactive user interactive game created entierly using Java and can be played on PC.   
 I will use Android development tools to cretate the  Front end of the game in order to play on an android device. 
 
 ## Features
